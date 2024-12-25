@@ -1,0 +1,4 @@
+﻿  Snake.cpp
+C:\Users\ADMIN\OneDrive\Desktop\Snake_C++_VSC\Snake\Snake\mylibb.h(28,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\ADMIN\OneDrive\Desktop\Snake_C++_VSC\Snake\Snake\mylibb.h(28,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Snake.vcxproj -> C:\Users\ADMIN\OneDrive\Desktop\Snake_C++_VSC\Snake\x64\Debug\Snake.exe

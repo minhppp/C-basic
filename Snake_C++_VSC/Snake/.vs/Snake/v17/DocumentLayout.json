@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEBE16-3F68-4AEC-BEC4-E8EA4A21C272}|Snake\\Snake.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64AEBE16-3F68-4AEC-BEC4-E8EA4A21C272}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AEBE16-3F68-4AEC-BEC4-E8EA4A21C272}|Snake\\Snake.vcxproj|C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\mylibb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64AEBE16-3F68-4AEC-BEC4-E8EA4A21C272}|Snake\\Snake.vcxproj|solutionrelative:Snake\\mylibb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mylibb.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\mylibb.h",
+              "RelativeDocumentMoniker": "Snake\\mylibb.h",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\mylibb.h",
+              "RelativeToolTip": "Snake\\mylibb.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-14T06:41:28.11Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake\\Snake.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\Snake_C\u002B\u002B_VSC\\Snake\\Snake\\Snake.cpp",
+              "RelativeToolTip": "Snake\\Snake.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAKwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-14T06:37:24.057Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
